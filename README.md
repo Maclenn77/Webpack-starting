@@ -10,9 +10,12 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML 5
+- CSS
+- JavaScript
+- Webpack
+- VS Code
+- Gitflow
 
 ## Live Demo
 
@@ -45,15 +48,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Maclenn77](https://github.com/Maclenn77)
+- Twitter: [@SrJuanPapas](https://twitter.com/SrJuanPapas)
+- LinkedIn: [Juan Paulo Pérez Tejada](https://linkedin.com/in/juanpaulopereztejada)
 
 ## 🤝 Contributing
 
